@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/tdyer/Documents/Unreal Projects/unreal_base/ProjOne/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/tdyer/Documents/Unreal Projects/unreal_base/ProjOne/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/tdyer/Documents/Unreal Projects/unreal_base/ProjOne/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/85/7K3MC5XI1FLMTE3TM0VXWY.uasset",
+				"C:/Users/tdyer/Documents/Unreal Projects/unreal_base/ProjOne/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Users/tdyer/Documents/Unreal Projects/unreal_base/ProjOne/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/87/DZPJF7WWQ73Q6LCX4SGRB9.uasset",
+				"C:/Users/tdyer/Documents/Unreal Projects/unreal_base/ProjOne/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/1J/PFQFNC6JEJUK35BPCXNYH5.uasset",
+				"C:/Users/tdyer/Documents/Unreal Projects/unreal_base/ProjOne/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/IN/Y61KYUQC74J0OOEWY85D5Y.uasset"
 			]
 		}
 	]
