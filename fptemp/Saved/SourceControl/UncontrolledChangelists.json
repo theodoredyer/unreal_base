@@ -5,14 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/tdyer/Documents/Unreal Projects/unreal_base/fptemp/Content/FirstPerson/Blueprints/GM_Targetgame.uasset",
-				"C:/Users/tdyer/Documents/Unreal Projects/unreal_base/fptemp/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/tdyer/Documents/Unreal Projects/unreal_base/fptemp/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/6T/XI9AD4LHQNYVD4QHMAY4RC.uasset",
-				"C:/Users/tdyer/Documents/Unreal Projects/unreal_base/fptemp/Content/FirstPerson/Blueprints/BP_Target.uasset",
-				"C:/Users/tdyer/Documents/Unreal Projects/unreal_base/fptemp/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/93/2URXVQX2YGMZCG95WEJ0T9.uasset",
-				"C:/Users/tdyer/Documents/Unreal Projects/unreal_base/fptemp/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/0P/3N8GV7R3WVJEOV8T0LTTQ5.uasset",
-				"C:/Users/tdyer/Documents/Unreal Projects/unreal_base/fptemp/Content/FirstPerson/Maps/FirstPersonMap.umap",
-				"C:/Users/tdyer/Documents/Unreal Projects/unreal_base/fptemp/Content/FirstPerson/Blueprints/WBP_UI.uasset"
+				"C:/Users/tdyer/Documents/Unreal Projects/unreal_base/fptemp/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset"
 			]
 		}
 	]
