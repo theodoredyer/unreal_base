@@ -1594,3 +1594,287 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.28-02.04.42:580][516]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ea4af144-49e7-46b8-bc4f-c4558c85083b}, Name=LG ULTRAGEAR (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=7.31
 [2024.02.28-02.04.42:580][516]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2024.02.28-02.04.42:581][516]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.28-02.11.28:200][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.02.28-02.11.28:204][732]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.020
+[2024.02.28-02.11.28:205][732]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.02.28-02.11.28:281][732]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.02.28-02.11.28:281][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.02.28-02.11.28:292][732]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto2
+[2024.02.28-02.11.28:292][732]LogSavePackage: Moving '../../../../../../Users/tdyer/Documents/Unreal Projects/unreal_base/fptemp/Saved/BP_FirstPersonCharacter_Auto2A03EE6454DC7861B272F5D9443A7740F.tmp' to '../../../../../../Users/tdyer/Documents/Unreal Projects/unreal_base/fptemp/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto2.uasset'
+[2024.02.28-02.11.28:293][732]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Rifle] ([2] browsable assets)...
+[2024.02.28-02.11.28:314][732]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_Rifle.BP_Rifle]
+[2024.02.28-02.11.28:314][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Rifle]
+[2024.02.28-02.11.28:317][732]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_Rifle_Auto2
+[2024.02.28-02.11.28:317][732]LogSavePackage: Moving '../../../../../../Users/tdyer/Documents/Unreal Projects/unreal_base/fptemp/Saved/BP_Rifle_Auto2E8905F6C4BED068782140B9FCBE955D3.tmp' to '../../../../../../Users/tdyer/Documents/Unreal Projects/unreal_base/fptemp/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Rifle_Auto2.uasset'
+[2024.02.28-02.11.28:317][732]LogFileHelpers: Auto-saving content packages took 0.113
+[2024.02.28-02.21.28:672][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.02.28-02.21.28:673][533]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.02.28-02.31.29:426][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.02.28-02.31.29:426][335]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.011
+[2024.02.28-02.41.29:869][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.02.28-02.41.29:870][136]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.013
+[2024.02.28-02.51.30:298][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.02.28-02.51.30:299][937]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.009
+[2024.02.28-02.52.25:094][102]LogDerivedDataCache: C:/Users/tdyer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.052 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1637 files in 2483 folders with total size 89 MiB.
+[2024.02.28-03.01.30:743][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.02.28-03.01.30:743][738]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.013
+[2024.02.28-03.05.00:984][369]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2024.02.28-03.05.01:046][369]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8880
+[2024.02.28-03.11.31:329][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.02.28-03.11.31:330][526]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.011
+[2024.02.28-03.21.32:073][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.02.28-03.21.32:074][307]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.02.28-03.31.32:741][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.02.28-03.31.32:742][ 88]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.009
+[2024.02.28-03.41.33:359][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.02.28-03.41.33:360][869]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.011
+[2024.02.28-03.51.33:708][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.02.28-03.51.33:709][650]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.02.28-03.52.25:175][804]LogDerivedDataCache: C:/Users/tdyer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.132 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1637 files in 2483 folders with total size 89 MiB.
+[2024.02.28-04.01.34:310][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.02.28-04.01.34:311][430]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.009
+[2024.02.28-04.11.35:001][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.02.28-04.11.35:002][211]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.009
+[2024.02.28-04.21.35:653][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.02.28-04.21.35:654][992]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.02.28-04.31.36:085][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.02.28-04.31.36:086][772]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.011
+[2024.02.28-04.41.36:690][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.02.28-04.41.36:691][553]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.011
+[2024.02.28-04.51.37:237][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.02.28-04.51.37:238][334]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.02.28-04.52.25:151][477]LogDerivedDataCache: C:/Users/tdyer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.095 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1637 files in 2483 folders with total size 89 MiB.
+[2024.02.28-05.01.37:747][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.02.28-05.01.37:748][115]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.011
+[2024.02.28-05.11.38:163][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.02.28-05.11.38:164][895]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.02.28-05.21.38:752][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.02.28-05.21.38:753][676]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.014
+[2024.02.28-05.31.39:371][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.02.28-05.31.39:372][457]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.02.28-05.41.39:967][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.02.28-05.41.39:968][238]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.02.28-05.51.40:408][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.02.28-05.51.40:409][ 19]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.014
+[2024.02.28-05.52.26:127][156]LogDerivedDataCache: C:/Users/tdyer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.070 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1637 files in 2483 folders with total size 89 MiB.
+[2024.02.28-06.01.41:097][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.02.28-06.01.41:098][800]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.02.29-19.49.34:500][393]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-135862064ms], ThreadID=8880
+[2024.02.29-19.49.34:500][393]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.02.29-19.49.35:816][393]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.29-19.49.36:418][394]LogHttp: Warning: 000008BBE9A38200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.02.29-19.49.36:418][394]LogHttp: Warning: 000008BBE9A38200: libcurl info message cache 0 (Too old connection (135909 seconds idle), disconnect it)
+[2024.02.29-19.49.36:418][394]LogHttp: Warning: 000008BBE9A38200: libcurl info message cache 1 (Connection 4 seems to be dead)
+[2024.02.29-19.49.36:418][394]LogHttp: Warning: 000008BBE9A38200: libcurl info message cache 2 (Closing connection)
+[2024.02.29-19.49.36:418][394]LogHttp: Warning: 000008BBE9A38200: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.02.29-19.49.36:418][394]LogHttp: Warning: 000008BBE9A38200: libcurl info message cache 4 (Send failure: Connection was reset)
+[2024.02.29-19.49.36:418][394]LogHttp: Warning: 000008BBE9A38200: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2024.02.29-19.49.36:418][394]LogHttp: Warning: 000008BBE9A38200: libcurl info message cache 6 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.02.29-19.49.36:418][394]LogHttp: Warning: 000008BBE9A38200: libcurl info message cache 7 (Closing connection)
+[2024.02.29-19.49.36:418][394]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5CFED3C6-46A1-D98D-371A-5BAB5D0C1E3C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=89d9f0de405ce5632bbf74826b015177%7C677a3b21a4554b12bdb92aacbd11745f%7C5868e2e8-842b-4fd5-a6df-fcb92b1daf98&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.02.29-19.49.37:310][395]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2024.02.29-19.49.37:475][395]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=AW3423DWF (NVIDIA High Definition Audio), InstanceID=1
+[2024.02.29-19.49.38:289][396]Could not fetch the local adapter addresses
+[2024.02.29-19.49.38:289][396]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2024.02.29-19.49.38:328][396]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.29-19.49.38:331][396]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7f465818-1281-42af-b46a-2992f9a35813}, Name=AW3423DWF (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=14.83
+[2024.02.29-19.49.38:331][396]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.29-19.49.38:333][396]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.29-19.49.40:107][402]Could not fetch the local adapter addresses
+[2024.02.29-19.49.40:107][402]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2024.02.29-19.49.40:301][402]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.29-19.49.42:124][408]Could not fetch the local adapter addresses
+[2024.02.29-19.49.42:124][408]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2024.02.29-19.49.42:301][408]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.29-19.49.44:144][414]Could not fetch the local adapter addresses
+[2024.02.29-19.49.44:144][414]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2024.02.29-19.49.44:302][414]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.29-19.49.46:860][420]LogUdpMessaging: Display: Added local interface '169.254.208.148' to multicast group '230.0.0.1:6666'
+[2024.02.29-19.49.46:935][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.02.29-19.49.46:936][420]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.009
+[2024.02.29-19.57.41:612][979]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (2- tedpods max - Find My), InstanceID=1
+[2024.02.29-19.57.41:771][979]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8880
+[2024.02.29-19.57.42:106][980]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{dc5c5fe8-2976-4c9f-9293-232207831e33}, Name=Headphones (2- tedpods max - Find My)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=12.56
+[2024.02.29-19.57.42:106][980]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.29-19.57.42:106][980]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.29-19.57.51:688][  9]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=AW3423DWF (NVIDIA High Definition Audio), InstanceID=1
+[2024.02.29-19.57.51:774][  9]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8880
+[2024.02.29-19.57.52:108][ 10]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7f465818-1281-42af-b46a-2992f9a35813}, Name=AW3423DWF (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=12.45
+[2024.02.29-19.57.52:108][ 10]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.29-19.57.52:110][ 10]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.29-19.59.47:605][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.02.29-19.59.47:606][356]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.013
+[2024.02.29-20.09.48:163][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.02.29-20.09.48:164][157]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.02.29-20.19.48:655][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.02.29-20.19.48:656][958]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.011
+[2024.02.29-20.29.49:548][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.02.29-20.29.49:549][760]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.02.29-20.36.47:502][ 14]LogDerivedDataCache: C:/Users/tdyer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.041 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1637 files in 2483 folders with total size 89 MiB.
+[2024.02.29-20.39.50:076][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.02.29-20.39.50:077][561]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.011
+[2024.02.29-20.49.50:574][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.02.29-20.49.50:576][362]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.011
+[2024.02.29-20.59.50:967][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.02.29-20.59.50:968][310]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.012
+[2024.02.29-21.09.51:457][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.02.29-21.09.51:458][111]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.011
+[2024.02.29-21.19.51:960][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.02.29-21.19.51:960][912]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.02.29-21.29.52:426][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.02.29-21.29.52:427][713]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.012
+[2024.02.29-21.36.47:831][960]LogDerivedDataCache: C:/Users/tdyer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.058 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1637 files in 2483 folders with total size 89 MiB.
+[2024.02.29-21.39.53:239][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.02.29-21.39.53:240][515]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.012
+[2024.02.29-21.43.08:466][101]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (2- tedpods max - Find My), InstanceID=1
+[2024.02.29-21.43.08:521][101]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8880
+[2024.02.29-21.43.08:856][102]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{dc5c5fe8-2976-4c9f-9293-232207831e33}, Name=Headphones (2- tedpods max - Find My)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=12.39
+[2024.02.29-21.43.08:856][102]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.29-21.43.08:858][102]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.29-21.49.53:682][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.02.29-21.49.53:683][316]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.014
+[2024.02.29-21.59.54:124][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.02.29-21.59.54:125][117]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.015
+[2024.02.29-22.09.54:548][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.02.29-22.09.54:550][918]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.015
+[2024.02.29-22.19.55:010][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.02.29-22.19.55:011][719]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.013
+[2024.02.29-22.29.55:775][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.02.29-22.29.55:776][521]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.015
+[2024.02.29-22.36.48:893][761]LogDerivedDataCache: C:/Users/tdyer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.024 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1637 files in 2483 folders with total size 89 MiB.
+[2024.02.29-22.39.56:269][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.02.29-22.39.56:270][322]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.011
+[2024.02.29-22.49.56:702][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.02.29-22.49.56:703][123]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.02.29-22.50.29:079][221]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=AW3423DWF (NVIDIA High Definition Audio), InstanceID=1
+[2024.02.29-22.50.29:283][221]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8880
+[2024.02.29-22.50.29:626][222]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7f465818-1281-42af-b46a-2992f9a35813}, Name=AW3423DWF (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=16.00
+[2024.02.29-22.50.29:626][222]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.29-22.50.29:628][222]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.29-22.59.57:123][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.02.29-22.59.57:124][924]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.013
+[2024.02.29-23.09.57:553][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.02.29-23.09.57:554][725]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.013
+[2024.02.29-23.19.58:000][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.02.29-23.19.58:001][526]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.015
+[2024.02.29-23.29.58:454][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.02.29-23.29.58:455][327]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.012
+[2024.02.29-23.36.47:936][556]LogDerivedDataCache: C:/Users/tdyer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.037 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1637 files in 2483 folders with total size 89 MiB.
+[2024.02.29-23.39.58:904][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.02.29-23.39.58:905][128]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.015
+[2024.02.29-23.49.59:355][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.02.29-23.49.59:356][929]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.011
+[2024.02.29-23.59.59:782][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.02.29-23.59.59:783][730]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.012
+[2024.03.01-00.06.01:168][815]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2024.03.01-00.06.01:461][815]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8880
+[2024.03.01-00.10.00:351][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.03.01-00.10.00:352][528]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.03.01-00.10.46:324][665]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2024.03.01-00.10.46:430][666]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=AW3423DWF (NVIDIA High Definition Audio), InstanceID=1
+[2024.03.01-00.10.47:040][667]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7f465818-1281-42af-b46a-2992f9a35813}, Name=AW3423DWF (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=14.27
+[2024.03.01-00.10.47:040][667]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.03.01-00.10.47:042][667]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.03.01-00.12.08:740][913]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (2- tedpods max - Find My), InstanceID=1
+[2024.03.01-00.12.09:048][913]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8880
+[2024.03.01-00.12.09:382][914]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{dc5c5fe8-2976-4c9f-9293-232207831e33}, Name=Headphones (2- tedpods max - Find My)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=15.68
+[2024.03.01-00.12.09:382][914]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.03.01-00.12.09:384][914]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.03.01-00.20.01:025][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.03.01-00.20.01:026][327]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.017
+[2024.03.01-00.21.27:268][586]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LG ULTRAGEAR (NVIDIA High Definition Audio), InstanceID=1
+[2024.03.01-00.21.27:330][586]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8880
+[2024.03.01-00.21.27:666][587]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ea4af144-49e7-46b8-bc4f-c4558c85083b}, Name=LG ULTRAGEAR (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=17.15
+[2024.03.01-00.21.27:667][587]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.03.01-00.21.27:669][587]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.03.01-00.30.01:547][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.03.01-00.30.01:548][128]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.011
+[2024.03.01-00.36.47:953][348]LogDerivedDataCache: C:/Users/tdyer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.044 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1637 files in 2483 folders with total size 89 MiB.
+[2024.03.01-00.40.02:045][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.03.01-00.40.02:050][929]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.034
+[2024.03.01-00.50.02:482][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.03.01-00.50.02:483][730]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.013
+[2024.03.01-01.00.02:929][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.03.01-01.00.02:930][531]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.009
+[2024.03.01-01.10.03:345][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.03.01-01.10.03:345][332]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.012
+[2024.03.01-01.20.03:790][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.03.01-01.20.03:790][133]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.007
+[2024.03.01-01.20.05:658][139]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2024.03.01-01.20.05:733][139]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8880
+[2024.03.01-01.30.04:431][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.03.01-01.30.04:431][908]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.009
+[2024.03.01-01.36.48:014][100]LogDerivedDataCache: C:/Users/tdyer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.102 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1637 files in 2483 folders with total size 89 MiB.
+[2024.03.01-01.40.04:988][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.03.01-01.40.04:989][681]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.021
+[2024.03.01-01.50.05:656][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.03.01-01.50.05:657][455]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.013
+[2024.03.01-02.00.06:379][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.03.01-02.00.06:380][229]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.009
+[2024.03.01-02.10.06:935][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.03.01-02.10.06:936][  3]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.011
+[2024.03.01-02.20.07:508][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.03.01-02.20.07:509][777]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.03.01-02.30.08:282][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.03.01-02.30.08:283][551]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.009
+[2024.03.01-02.36.48:990][735]LogDerivedDataCache: C:/Users/tdyer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.068 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1637 files in 2483 folders with total size 89 MiB.
+[2024.03.01-02.40.09:094][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.03.01-02.40.09:095][325]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.03.01-02.50.09:421][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.03.01-02.50.09:422][ 98]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.009
+[2024.03.01-03.00.09:923][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.03.01-03.00.09:924][871]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.03.01-03.10.10:576][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.03.01-03.10.10:577][644]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.03.01-03.20.11:176][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.03.01-03.20.11:177][417]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.03.01-03.30.11:677][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.03.01-03.30.11:678][190]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.03.01-03.36.48:029][361]LogDerivedDataCache: C:/Users/tdyer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.103 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1637 files in 2483 folders with total size 89 MiB.
+[2024.03.01-03.40.12:410][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.03.01-03.40.12:411][964]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.016
+[2024.03.01-03.50.13:091][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.03.01-03.50.13:092][737]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.020
+[2024.03.01-04.00.13:543][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.03.01-04.00.13:544][510]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.03.01-04.10.14:300][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.03.01-04.10.14:301][284]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.03.01-04.20.14:910][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.03.01-04.20.14:911][ 59]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.03.01-05.52.09:500][165]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-5466886ms], ThreadID=8880
+[2024.03.01-05.52.10:804][165]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.03.01-05.52.16:673][180]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2024.03.01-05.52.16:768][180]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=AW3423DWF (NVIDIA High Definition Audio), InstanceID=1
+[2024.03.01-05.52.17:459][181]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7f465818-1281-42af-b46a-2992f9a35813}, Name=AW3423DWF (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=10.14
+[2024.03.01-05.52.17:459][181]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.03.01-05.52.17:462][181]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.03.01-05.52.21:532][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.03.01-05.52.21:534][193]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.015
+[2024.03.01-05.53.28:321][394]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (2- tedpods max - Find My), InstanceID=1
+[2024.03.01-05.53.28:470][394]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8880
+[2024.03.01-05.53.28:805][395]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{dc5c5fe8-2976-4c9f-9293-232207831e33}, Name=Headphones (2- tedpods max - Find My)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=17.82
+[2024.03.01-05.53.28:805][395]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.03.01-05.53.28:806][395]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.03.01-06.02.21:971][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.03.01-06.02.21:972][994]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.011
+[2024.03.01-06.07.54:871][993]LogDerivedDataCache: C:/Users/tdyer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.055 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1637 files in 2483 folders with total size 89 MiB.
+[2024.03.01-06.12.22:380][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.03.01-06.12.22:381][795]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.011
+[2024.03.01-06.22.22:642][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.03.01-06.22.22:643][594]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.014
+[2024.03.01-06.32.23:027][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.03.01-06.32.23:028][395]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.022
+[2024.03.01-06.42.23:462][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.03.01-06.42.23:463][196]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.020
+[2024.03.01-06.52.23:760][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.03.01-06.52.23:761][997]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.019
+[2024.03.01-07.02.24:520][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.03.01-07.02.24:521][799]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.025
+[2024.03.01-07.07.54:880][791]LogDerivedDataCache: C:/Users/tdyer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.063 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1637 files in 2483 folders with total size 89 MiB.
+[2024.03.01-07.12.25:003][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.03.01-07.12.25:005][600]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.022
+[2024.03.01-07.21.47:876][290]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=AW3423DWF (NVIDIA High Definition Audio), InstanceID=1
+[2024.03.01-07.21.48:200][290]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8880
+[2024.03.01-07.21.48:535][291]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7f465818-1281-42af-b46a-2992f9a35813}, Name=AW3423DWF (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=18.80
+[2024.03.01-07.21.48:535][291]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.03.01-07.21.48:537][291]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
